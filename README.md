@@ -26,4 +26,4 @@ npm run dev
 
 ## Contact
 
-If you have any questions, feel free to reach out to me on [Twitter](https://t.me/thenetworkm).
+If you have any questions, feel free to reach out to me on [Telegram](https://t.me/thenetworkm).
